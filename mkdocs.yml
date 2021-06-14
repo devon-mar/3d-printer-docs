@@ -1,0 +1,11 @@
+site_name: 3D Printer Docs
+site_url: https://3d-printer-docs.readthedocs.io/
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - admonition
+
+copyright: Devon Mar 2021
