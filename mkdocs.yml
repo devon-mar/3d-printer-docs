@@ -5,7 +5,11 @@ theme:
   features:
     - navigation.tabs
 
+copyright: Devon Mar 2021
+repo_url: https://github.com/devon-mar/3d-printer-docs
+edit_uri: edit/master/docs
+repo_name: GitHub
+
 markdown_extensions:
   - admonition
-
-copyright: Devon Mar 2021
+  - pymdownx.tabbed

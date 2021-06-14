@@ -35,35 +35,35 @@ This section will take you through the complete process of downloading an object
 3. Heat the hotend to a temperature hot enough to remove the old filament, and to insert the new filament.
 4. Unload the old filament:
 
-    **Using OctoPrint:**
+    === "Using OctoPrint"
 
-    1. Under the **Control** tab, enter the length in mm to retract
-    2. Click retract
+        1. Under the **Control** tab, enter the length in mm to retract
+        2. Click retract
 
-    **Using the printer firmware:**
+    === "Using the printer firmware"
 
-    1. Click the wheel
-    2. Select **Unload filament**
-    3. Click the wheel
+        1. Click the wheel
+        2. Select **Unload filament**
+        3. Click the wheel
 
 5. Load the new filament:
 
-    **Using OctoPrint:**
+    === "Using OctoPrint"
 
-    1. Under the **Control** tab, enter the length in mm to extrude
+        1. Under the **Control** tab, enter the length in mm to extrude
 
-        !!! note
-            100mm-120mm is usually sufficient
+            !!! note
+                100mm-120mm is usually sufficient
 
-    1. Click extrude.
+        1. Click extrude.
 
-        !!! tip
-            If the colour isn't clear, keep extruding by small amounts until the colour is clear.
+            !!! tip
+                If the colour isn't clear, keep extruding by small amounts until the colour is clear.
 
-    **Using the printer firmware:**
+    === "Using the printer firmware"
 
-    1. Click the wheel
-    2. Select **Load Filament**
-    3. Follow the prompts to ensure that the colour is clear
+        1. Click the wheel
+        2. Select **Load Filament**
+        3. Follow the prompts to ensure that the colour is clear
 
 6. Done
